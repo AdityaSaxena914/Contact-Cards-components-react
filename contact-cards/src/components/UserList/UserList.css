@@ -1,0 +1,13 @@
+.list {
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 20px rgba(255, 255, 255, 0.2);
+  background-color: #fefefe;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 30px auto;
+  max-width: 400px;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
