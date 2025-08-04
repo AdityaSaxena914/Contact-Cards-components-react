@@ -41,7 +41,7 @@ contact-cards/
 ```
 
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 - React
 - JavaScript (ES6+)
